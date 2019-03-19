@@ -14,6 +14,7 @@
 		9B3D54EE224076F200025AFB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B3D54EC224076F200025AFB /* LaunchScreen.storyboard */; };
 		9B3D54F9224076F300025AFB /* Day_12_WebViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3D54F8224076F300025AFB /* Day_12_WebViewTests.swift */; };
 		9B3D5504224076F300025AFB /* Day_12_WebViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B3D5503224076F300025AFB /* Day_12_WebViewUITests.swift */; };
+		9B3D55122240794200025AFB /* home.html in Resources */ = {isa = PBXBuildFile; fileRef = 9B3D55112240794200025AFB /* home.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		9B3D54FF224076F300025AFB /* Day 12_WebViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Day 12_WebViewUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9B3D5503224076F300025AFB /* Day_12_WebViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Day_12_WebViewUITests.swift; sourceTree = "<group>"; };
 		9B3D5505224076F300025AFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B3D55112240794200025AFB /* home.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = home.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				9B3D54EA224076F200025AFB /* Assets.xcassets */,
 				9B3D54EC224076F200025AFB /* LaunchScreen.storyboard */,
 				9B3D54EF224076F300025AFB /* Info.plist */,
+				9B3D55112240794200025AFB /* home.html */,
 			);
 			path = "Day 12_WebView";
 			sourceTree = "<group>";
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9B3D54EE224076F200025AFB /* LaunchScreen.storyboard in Resources */,
+				9B3D55122240794200025AFB /* home.html in Resources */,
 				9B3D54EB224076F200025AFB /* Assets.xcassets in Resources */,
 				9B3D54E9224076F100025AFB /* Main.storyboard in Resources */,
 			);
